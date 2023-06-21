@@ -1,0 +1,15 @@
+.box {
+    width: 100px;
+    height: 100px;
+    color: #fff;
+    align-items: center;
+    justify-content: center;
+    background-color: orange;
+    box-sizing: border-box;
+    padding: 16px;
+    border: 4px solid #333;
+    
+}
+.box{
+    box-sizing: unset;
+}

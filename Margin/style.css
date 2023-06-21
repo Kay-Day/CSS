@@ -1,0 +1,22 @@
+.box1 {
+    background-color: orange;
+}
+.box2 {
+    background-color: red;
+    
+}
+.box3 {
+    background-color: pink;
+    margin : 10px;
+    
+}
+
+.box {
+    width: 60px;
+    height: 60px;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    float: left;
+}
